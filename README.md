@@ -1,1 +1,2 @@
 # conceptcloud
+Today we are limited to drawing tools, word processors, and spreadsheets to easily capture ideas from a variety of individuals.  For software and system designers, we are limited to modeling tools for creation / editing that require extensive training and rigor.  Why can't I draw something in a presentation tool, describe it in a word processor, and view the combined results in a spreadsheet without having to maintain three different files?
